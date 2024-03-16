@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidtermSriRamgopalTandra</string>
+    <string name="this_app_was_developed_by_firstname_lastname">This app was developed by Firstname Lastname</string>
+    <string name="this_app_was_developed_by_Sri_Ramgopal_tandra">This App Was Created By Sri Ramgopal Tandra</string>
+    <string name="convert">Convert</string>
+    <string name="enter_liters">Enter Liters</string>
+    <string name="conversion_app">Conversion App</string>
+</resources>
